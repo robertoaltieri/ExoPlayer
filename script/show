@@ -1,0 +1,2 @@
+adb shell am start -a com.google.android.exoplayer.demo.action.VIEW \
+    -d $1
